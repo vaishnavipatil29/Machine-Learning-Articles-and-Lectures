@@ -16,13 +16,13 @@
      
       ML piplines
 
-[Python Basics](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/blob/master/Lec%20-3-%20Python%20Basics.ipynb)
+[Lec 3:Python Basics](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/blob/master/Lec%20-3-%20Python%20Basics.ipynb)
 
      Datatypes, operators, Functions
     
      map(),lambda(),filter(),reduce()
 
-[Lec 3: Python Packages required for ML](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/blob/master/Lec%20-4%20-Python%20Packages.pdf)
+[Lec 4: Python Packages required for ML](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/blob/master/Lec%20-4%20-Python%20Packages.pdf)
 
      
     
