@@ -4,6 +4,7 @@
 ### These lectures are worth reading especially if you are trying to brush up and revise these topics.
 
 Lec 1: Introduction to AI-ML Lec
+      
       Need for ML?
       
       What is ML, DL, AI?
