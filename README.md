@@ -24,6 +24,13 @@
 
 [Lec 4: Python Packages required for ML](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/blob/master/Lec%20-4%20-Python%20Packages.pdf)
 
+[Lec 7: Statistics Part -1: Descriptive Statistics](https://github.com/vaishnavipatil29/Machine-Learning-Articles-and-Lectures/tree/master/Lec%20-7%20Descriptive%20Statitics)
+
+      Descriptive Statistics
+      
+      Measure of Central Tendencies, Dispersion Measures, Shape Distribution, Outliers
+           
+
      
     
     
